@@ -36,6 +36,5 @@ Each of the genders has a similar pattern. When we take a step back, we can see 
 The overall pattern of bike activity that we can see is that subscribers make up more activity than customers and males make up more than females and unknowns. We can also note that during the weekdays, most of the activity seems to be around the times that people are coming to and from work. However, the weekends show us that midday rides are more popular.
 
 The given dataset could use more analysis though as there are still some questions left unanswered:
-- Out of the subcribers and customers, what percentage of each are male, female, and unknown?
-    Either 2 pie charts or one bar chart could be used to display this information.
-- 
+- Out of the subcribers and customers, what percentage of each are male, female, and unknown? Either 2 pie charts or one bar chart could be used to display this information.
+- Does the day of the week affect the average length of a bike ride? A box and whisker chart could be make for each day of the week to eliminate any outliers messing with the data.
