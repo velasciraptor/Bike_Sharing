@@ -1,4 +1,6 @@
 # Bike_Sharing
+
+[Link to the tableau story](https://public.tableau.com/app/profile/amy.velasquez/viz/NYCCitiBikeDataChallenge/Story1) 
 ## Overview:
 Recently, a friend and I went sight-seeing in New York. The beauty of the experience was magnified by our bike trip through Central Park where we had an idea. Riding through the fresh air together was fun like childhood, efficient like adulthood, and beautiful as the city we were in. Why not bring the experience to Des Moines in the form of our own start-up? So we took a dive into the data of NYC's CitiBike to explore the possibility.
 
