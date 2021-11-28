@@ -15,22 +15,22 @@ Why do the gender lines differ?
 
 ![](images/3.png)
 
-These are not the only categories to look into 
+Gender is not the only way to categorise clients, though. We have subscribers and customers.
 
 ![](images/4.png)
 
-
+We can see that subcribers make up more that 3/4ths of the bike rentals, so the next question is, when during the week are the bikes being rented?
 
 ![](images/5.png)
 
-
+Now let us look at gender, but at the same time take the analysis further by adding the time of each day as well.
 
 ![](images/6.png)
 
-
+Each of the genders has a similar pattern. When we take a step back, we can see the general idea of when the bikes are rented for all clients regardless of category.
 
 ![](images/7.png)
 
 
 ## Summary
-Of the subcribers and customers, what percentage of these are male, female, and unknown?
+So we know that subscribers make up more activity than customers and males make up more than females and unknowns, but of the subcribers and customers, what percentage of these are male, female, and unknown?
