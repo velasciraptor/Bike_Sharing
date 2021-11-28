@@ -7,6 +7,30 @@ The first question I asked myself is how long do consumers actually use the bike
 
 ![](images/1.png)
 
-So a bike is accessible for the next cutomer fairly quickly. Looking further into detail about who rides the bike for what amount of time was next. 
+So a bike is accessible for the next cutomer fairly quickly. Let us look further into detail about who rides the bike for what amount of time was next. 
 
-1[](images/2.png)
+![](images/2.png)
+
+Why do the gender lines differ?
+
+![](images/3.png)
+
+These are not the only categories to look into 
+
+![](images/4.png)
+
+
+
+![](images/5.png)
+
+
+
+![](images/6.png)
+
+
+
+![](images/7.png)
+
+
+## Summary
+Of the subcribers and customers, what percentage of these are male, female, and unknown?
